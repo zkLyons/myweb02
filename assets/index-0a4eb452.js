@@ -1,0 +1,1 @@
+import{d as n,a as _,o as a,f as c,i as s,_ as d}from"./index-8f68718e.js";const r="/myweb02/assets/404-4ddd4288.png",p={class:"box"},i=n({__name:"index",setup(l){let o=_();const t=()=>{o.push("/home")};return(u,e)=>(a(),c("div",p,[e[0]||(e[0]=s("img",{src:r,alt:""},null,-1)),s("button",{onClick:t},"首页")]))}});const x=d(i,[["__scopeId","data-v-9274928e"]]);export{x as default};
